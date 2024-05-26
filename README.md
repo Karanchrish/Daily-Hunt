@@ -1,6 +1,6 @@
 # Daily Hunt Application
 
-This is a simple React-based web application named **Daily Hunt** that displays news articles from various categories using the News API. The application features two navigation bars, various news categories, and utilizes infinite scrolling to load more news articles as the user scrolls down.
+This is a React-based web application named **Daily Hunt** that displays news articles from various categories using the News API. The application features two navigation bars, various news categories, and utilizes infinite scrolling to load more news articles as the user scrolls down.
 
 ## Features
 
@@ -13,8 +13,8 @@ This is a simple React-based web application named **Daily Hunt** that displays 
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/news-geek.git
-    cd news-geek
+    git clone https://github.com/yourusername/news.git
+    cd news
     ```
 
 2. **Install dependencies**:
